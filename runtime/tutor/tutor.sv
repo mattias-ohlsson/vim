@@ -298,6 +298,29 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			 Lektion 2.6: ARBETA MED RADER
+
+
+		  ** Skriv  dd  för att radera en hel rad. **
+
+  På grund av hur vanligt det är att ta bort hela rader, valde utvecklarna
+  av Vi att det skulle vara enklare att bara trycka d två gånger i rad för
+  att ta bort en rad.
+
+  1. Flytta markören till den andra raden i frasen nedan.
+  2. Skriv  dd  för att radera raden.
+  3. Flytta nu till den fjärde raden.
+  4. Skriv  2dd  för att radera två rader.
+
+--->  1)  Rosor är röda,
+--->  2)  Lera är roligt,
+--->  3)  Violer är blå,
+--->  4)  Jag har en bil,
+--->  5)  Klockor talar om tid,
+--->  6)  Socker är sött
+--->  7)  Och så är du.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lesson 2.3: KOMMANDON OCH OBJEKT
 
 
@@ -318,32 +341,6 @@ NOTERA:  För den äventyrslystne, genom att bara trycka på objektet i
 	 Normal-läge (utan kommando) så kommer markören att flyttas som
 	 angivet i objektlistan.
 
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		Lektion 2.4: ETT UNDANTAG TILL 'KOMMANDO-OBJEKT'
-
-
-	       ** Skriv	 dd   för att radera hela raden. **
-
-  På grund av hur vanligt det är att ta bort hela rader, valde upphovsmannen
-  till Vi att det skulle vara enklare att bara trycka d två gånger i rad för
-  att ta bort en rad.
-
-  1. Flytta markören till den andra raden i frasen nedan.
-  2. Skriv  dd  för att radera raden.
-  3. Flytta nu till den fjärde raden.
-  4. Skriv   2dd   (kom ihåg:  nummer-kommando-objekt) för att radera de två
-     raderna.
-
-      1)  Roses are red,
-      2)  Mud is fun,
-      3)  Violets are blue,
-      4)  I have a car,
-      5)  Clocks tell time,
-      6)  Sugar is sweet
-      7)  And so are you.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
