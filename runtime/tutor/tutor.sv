@@ -52,21 +52,21 @@ Notera: Piltangenterna borde också fungera.  Men om du använder hjkl så kommer
 
   1. Tryck <ESC>-tangenten (för att se till att du är i Normal-läge).
 
-  2. Skriv:			:q! <ENTER>.
+  2. Skriv:	 :q! <ENTER>.
+     Detta avslutar redigeraren UTAN att spara några ändringar du gjort.
 
----> Detta avslutar redigeraren UTAN att spara några ändringar du gjort.
-     Om du vill spara ändringarna och avsluta skriv:
-				:wq  <ENTER>
-
-  3. När du ser skal-prompten, skriv kommandot som tog dig in i den här
-     handledningen.  Det kan vara:	vimtutor <ENTER>
-     Normalt vill du använda:		vim tutor <ENTER>
-
----> 'vim' betyder öppna redigeraren vim, 'tutor' är filen du vill redigera.
+  3. Kom tillbaka hit genom att köra kommandot som tog dig in i den här
+     handledningen. Det kan vara:  vimtutor <ENTER>
 
   4. Om du har memorerat dessa steg och känner dig självsäker, kör då stegen
-     1 till 3 för att avsluta och starta om redigeraren. Flytta sedan ned
-     markören till Lektion 1.3.
+     1 till 3 för att avsluta och starta om redigeraren.
+
+NOTERA: :q! <ENTER>  avslutar utan att spara dina ändringar.  Om några
+        lektioner kommer du att lära dig att spara ändringarna i en fil.
+
+  5. Flytta markören ned till Lektion 1.3.
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lektion 1.3: TEXT REDIGERING - BORTTAGNING
 
