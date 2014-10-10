@@ -34,16 +34,15 @@
   1. Flytta runt markören på skärmen tills du känner dig bekväm.
 
   2. Håll ned tangenten pil ned (j) tills att den repeterar.
----> Nu vet du hur du tar dig till nästa lektion.
+     Nu vet du hur du tar dig till nästa lektion.
 
-  3. Flytta till Lektion 1.2, med hjälp av ned tangenten.
+  3. Flytta till Lektion 1.2, med hjälp av ned-tangenten.
 
 Notera: Om du är osäker på någonting du skrev, tryck <ESC> för att placera dig
-	dig i Normal-läge. Skriv sedan om kommandot.
+	dig i Normal-läge.  Skriv sedan om kommandot.
 
 Notera: Piltangenterna borde också fungera.  Men om du använder hjkl så kommer
-	du att kunna flytta omkring mycket snabbare, när du väl vant dig vid
-	det.
+	du att kunna flytta omkring mycket snabbare, när du vant dig vid det.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lektion 1.2: STARTA OCH AVSLUTA VIM
