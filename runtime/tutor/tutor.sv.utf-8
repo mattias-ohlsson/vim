@@ -114,6 +114,29 @@ NOTERA: När du går igenom den här handledningen, försök inte att memorera, 
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		     Lektion 1.5: TEXT-REDIGERING - LÄGGA TILL
+
+
+		     ** Tryck  A  för att lägga till text. **
+
+  1. Flytta markören till den första raden nedan markerad --->.
+     Vilket tecken på raden markören står på har ingen betydelse.
+
+  2. Tryck  A  och skriv in de nödvändiga kompletteringarna.
+
+  3. När texten är kompletterad, tryck <ESC> för att återgå till Normal-läge.
+
+  4. Flytta markören till den andra raden markerad ---> och upprepa steg 2 och
+     3 för att korrigera meningen.
+
+---> Det saknas en del text från d
+     Det saknas en del text från den här raden.
+---> Det saknas även li
+     Det saknas även lite text här.
+
+  5. När du känner dig bekväm med att lägga till text, gå till lektion 1.6.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 1 SAMMANFATTNING
 
 
