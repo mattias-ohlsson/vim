@@ -160,27 +160,27 @@ NOTERA: När du går igenom den här handledningen, försök inte att memorera, 
   6. Efter att ha läst ovanstående steg och förstår dem: gör det.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			       LEKTION 1 SAMMANFATTNING
+			       Lektion 1 SAMMANFATTNING
 
 
   1. Markören flyttas genom att använda piltangenterna eller hjkl-tangenterna.
 	 h (vänster)	j (ned)       k (upp)	    l (höger)
 
-  2. För att starta Vim (från %-prompten) skriv:  vim FILNAMN <ENTER>
+  2. För att starta Vim från skalprompten skriv:  vim FILNAMN <ENTER>
 
   3. För att avsluta Vim skriv:  <ESC>  :q!  <ENTER>  för att kasta ändringar.
 		   ELLER skriv:  <ESC>	:wq  <ENTER>  för att spara ändringar.
 
-  4. För att ta bort tecknet under markören i Normal-läge skriv:  x
+  4. För att ta bort tecknet under markören skriv:  x
 
-  5. För att infoga text vid markören i Normal-läge skriv:
-	 i     skriv in text	<ESC>
+  5. För att infoga eller lägga till text vid markören skriv:
+	 i   skriv infogad text	  <ESC>         infoga före markören
+	 A   skriv tillagd text   <ESC>         lägg till efter raden
 
 NOTERA: Genom att trycka <ESC> kommer du att placeras i Normal-läge eller
-	avbryta ett delvis färdigskrivet kommando.
+        avbryta ett delvis färdigskrivet kommando.
 
 Fortsätt nu med Lektion 2.
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			Lektion 2.1: BORTTAGNINGSKOMMANDON
