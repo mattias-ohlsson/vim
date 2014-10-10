@@ -275,6 +275,29 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		Lektion 2.5: ANVÄNDA ANTAL FÖR ATT RADERA MER
+
+
+    ** Anges ett nummer till en operator upprepas den så många gånger. **
+
+  I kombination av raderingsoperatorn och en rörelse som nämns ovan sätter du
+  in ett antal före rörelsen för att radera mer:
+	 d   antal   rörelse
+
+  1. Flytta markören till det första VERSALA ordet i raden markerad --->.
+
+  2. Skriv  d2w  för att radera de två VERSALA orden.
+
+  3. Upprepa steg 1 och 2 med olika nummer för att ta bort efterföljande
+     versala ord med ett kommando.
+
+---> denna ABC DE rad FGHI JK LMN OP med ord är Q RS TUV mer läsbar.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lesson 2.3: KOMMANDON OCH OBJEKT
 
 
