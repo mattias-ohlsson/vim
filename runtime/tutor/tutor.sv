@@ -68,17 +68,17 @@ NOTERA: :q! <ENTER>  avslutar utan att spara dina ändringar.  Om några
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		     Lektion 1.3: TEXT REDIGERING - BORTTAGNING
+		     Lektion 1.3: TEXT-REDIGERING - BORTTAGNING
 
 
-** När du är i Normal-läge tryck  x  för att ta bort tecknet under markören. **
+               ** Tryck  x  för att ta bort tecknet under markören. **
 
   1. Flytta markören till raden nedan med markeringen --->.
 
   2. För att rätta felen, flytta markören tills den står på tecknet som ska
-     tas bort. fix the errors, move the cursor until it is on top of the
+     tas bort.
 
-  3. Tryck på	x-tangenten för att ta bort det felaktiga tecknet.
+  3. Tryck på tangenten  x  för att ta bort det felaktiga tecknet.
 
   4. Upprepa steg 2 till 4 tills meningen är korrekt.
 
@@ -87,8 +87,7 @@ NOTERA: :q! <ENTER>  avslutar utan att spara dina ändringar.  Om några
   5. Nu när raden är korrekt, gå till Lektion 1.4.
 
 NOTERA: När du går igenom den här handledningen, försök inte att memorera, lär
-	genom användning.
-
+        genom användning.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
