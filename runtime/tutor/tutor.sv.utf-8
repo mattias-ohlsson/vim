@@ -252,6 +252,29 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
         att förflyttas enligt vad som anges.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	       Lektion 2.4: ANVÄNDA ETT ANTAL TILL EN RÖRELSE
+
+
+   ** Anges ett nummer framför en rörelse upprepas den så många gånger. **
+
+  1. Flytta markören till raden med markeringen ---> nedan.
+
+  2. Skriv  2w  för att flytta markören två ord framåt.
+
+  3. Skriv  3e  för att flytta markören framåt till slutet av det tredje
+     ordet.
+
+  4. Skriv  0  (noll) för att flytta markören till början av raden.
+
+  5. Upprepa steg 2 och 3 med tre olika nummer.
+
+---> Det här är bara en rad med ord som du kan flytta runt i.
+
+  6. Gå videra till Lektion 2.5.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lesson 2.3: KOMMANDON OCH OBJEKT
 
 
