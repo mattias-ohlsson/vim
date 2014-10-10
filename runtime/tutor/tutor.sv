@@ -209,7 +209,7 @@ Fortsätt nu med Lektion 2.
 		      Lektion 2.2: FLER BORTTAGNINGSKOMMANDON
 
 
-	   ** Skriv  d$	för att radera till slutet på raden. **
+		** Skriv  d$  för att radera till slutet på raden. **
 
   1. Tryck  <ESC>  för att försäkra dig om att du är i Normal-läge.
 
