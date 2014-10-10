@@ -91,10 +91,10 @@ NOTERA: När du går igenom den här handledningen, försök inte att memorera, lär
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		     Lektion 1.4: TEXT REDIGERING - INFOGNING
+		     Lektion 1.4: TEXT-REDIGERING - INFOGNING
 
 
-	 ** När du är i Normal-läge tryck  i  för att infoga text. **
+		       ** Tryck  i  för att infoga text. **
 
   1. Flytta markören till den första raden nedan med markeringen --->.
 
@@ -109,8 +109,7 @@ NOTERA: När du går igenom den här handledningen, försök inte att memorera, lär
 ---> Det sakns här .
 ---> Det saknas lite text från den här raden.
 
-  5. När du känner dig bekväm med att infoga text, gå till sammanfattningen
-     nedan.
+  5. När du känner dig bekväm med att infoga text, gå till lektion 1.5.
 
 
 
