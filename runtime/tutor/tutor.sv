@@ -1,24 +1,24 @@
 ===============================================================================
-= V ä l k o m m e n  t i l l  h a n d l e d n i n g e n  i  V i m  - Ver. 1.5 =
+= V ä l k o m m e n  t i l l  h a n d l e d n i n g e n  i  V i m  - Ver. 1.7 =
 ===============================================================================
 
      Vim är en väldigt kraftfull redigerare som har många kommandon, alltför
-     många att förklara i en handledning som denna. Den här handledningen är
+     många att förklara i en handledning som denna.  Den här handledningen är
      gjord för att förklara tillräckligt många kommandon så att du enkelt ska
      kunna använda Vim som en redigerare för alla ändamål.
 
      Den beräknade tiden för att slutföra denna handledning är 25-30 minuter,
      beroende på hur mycket tid som läggs ned på experimentering.
 
-     Kommandona i lektionerna kommer att modifiera texten. Gör en kopia av den
-     här filen att öva på (om du startade "vimtutor är det här redan en kopia).
+     OBS: Kommandona i lektionerna modifierar texten.  Gör en kopia av den här
+     filen att öva på (om du startade "vimtutor" är det här redan en kopia).
 
-     Det är viktigt att komma ihåg att den här handledningen är konstruerad
-     att lära vid användning. Det betyder att du måste köra kommandona för att
-     lära dig dem ordentligt. Om du bara läser texten så kommer du att glömma
+     Det är viktigt att komma ihåg att den här handledningen är konstruerad att
+     lära vid användning.  Det betyder att du måste köra kommandona för att
+     lära dig dem ordentligt.  Om du bara läser texten så kommer du att glömma
      kommandona!
 
-     Försäkra dig nu om att din Caps-Lock tangent INTE är aktiv och tryck på
+     Försäkra dig nu om att din Caps Lock-tangent INTE är aktiv och tryck på
      j-tangenten tillräckligt många gånger för att förflytta markören så att
      Lektion 1.1 fyller skärmen helt.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
