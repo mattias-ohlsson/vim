@@ -186,7 +186,7 @@ Fortsätt nu med Lektion 2.
 			Lektion 2.1: BORTTAGNINGSKOMMANDON
 
 
-	    ** Skriv  dw  för att radera till slutet av ett ord. **
+		     ** Skriv  dw  för att radera ett ord. **
 
   1. Tryck  <ESC>  för att försäkra dig om att du är i Normal-läge.
 
@@ -194,15 +194,15 @@ Fortsätt nu med Lektion 2.
 
   3. Flytta markören till början av ett ord som måste raderas.
 
-  4. Skriv   dw	 för att radera ordet.
+  4. Skriv  dw  för att radera ordet.
 
-  NOTERA: Bokstäverna dw kommer att synas på den sista raden på skärmen när
-	du skriver dem. Om du skrev något fel, tryck  <ESC>  och börja om.
+  NOTERA: Bokstaven  d  kommer att visas på sista raden på skärmen när du
+          skriver den.  Vim väntar på att du ska skriva  w.  Om du ser en
+          annan bokstav än  d  har du skrivt fel; tryck  <ESC>  och börja om.
 
 ---> Det är ett några ord roliga att som inte hör hemma i den här meningen.
 
   5. Upprepa stegen 3 och 4 tills meningen är korrekt och gå till Lektion 2.2.
-
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
