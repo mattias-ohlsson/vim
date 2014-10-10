@@ -137,6 +137,29 @@ NOTERA: När du går igenom den här handledningen, försök inte att memorera, 
   5. När du känner dig bekväm med att lägga till text, gå till lektion 1.6.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		     Lektion 1.6: REDIGERA EN FIL
+
+	  ** Använd  :wq  för att spara till fil och avsluta. **
+
+  !! NOTERA: Innan du utför någon av punkterna nedan, läs hela lektionen!!
+
+  1. Avsluta denna handledning på samma sätt som du gjorde i lektion 1.2:  :q!
+     Eller, om du har tillgång till en annan terminal, gör följande där.
+
+  2. Vid skalprompten, utför detta kommando:  vim tutor <ENTER>
+     'vim' är kommandot för att starta Vim-redigeraren.  'tutor' är namnet på
+     filen du vill redigera.  Använd en fil som får ändras.
+
+  3. Infoga och ta bort text som du här lärt dig i de tidigare lektionerna.
+
+  4. Spara filen med ändringarna och avsluta Vim med:  :wq  <ENTER>
+
+  5. Om du har avslutat vimtutor i steg 1, starta om vimtutor och flytta ner
+     till följande sammanfattning.
+
+  6. Efter att ha läst ovanstående steg och förstår dem: gör det.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 1 SAMMANFATTNING
 
 
