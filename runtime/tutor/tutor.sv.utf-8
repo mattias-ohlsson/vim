@@ -229,6 +229,29 @@ Fortsätt nu med Lektion 2.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		   Lektion 2.3: OM OPERATORER OCH RÖRELSER
+
+
+  Många kommandon som förändrar texten baseras på en operator och en rörelse.
+  Formatet för ett raderingskommando med raderingsoperatorn  d  är följande:
+
+	d   rörelse
+
+  Där:
+    d         - är raderingsoperatorn.
+    rörelse   - är vad operatorn ska verka på (listat nedanför).
+
+  En kort lista med rörelser:
+    w - till början av nästa ord, FÖRUTOM det första tecknet.
+    e - till slutet av det aktuella ordet, INKLUSIVE det sista tecknet.
+    $ - till slutet av raden, INKLUSIVE det sista tecknet.
+
+  Således raderas allt från markören till slutet av ordet om  de  skrivs.
+
+NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
+        att förflyttas enligt vad som anges.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lesson 2.3: KOMMANDON OCH OBJEKT
 
 
