@@ -372,20 +372,20 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
    ** Skriv  p  för att klistra in den senaste raderingen efter markören. **
 
-  1. Flytta markören till den första raden i listan nedan.
+  1. 1. Flytta markören till den första raden nedan markerad --->.
 
-  2. Skriv  dd  för att radera raden och lagra den i Vims buffert.
+  2. Skriv  dd  för att radera raden och lagra den i ett Vim-register.
 
-  3. Flytta markören till raden OVANFÖR där den raderade raden borde vara.
+  3. Flytta markören till c)-raden, OVANFÖR där den raderade raden borde vara.
 
-  4. När du är i Normal-läge, skriv    p	 för att byta ut raden.
+  4. Skriv  p  för att klistra in raden nedanför markören.
 
   5. Repetera stegen 2 till 4 för att klistra in alla rader i rätt ordning.
 
-     d) Kan du lära dig också?
-     b) Violetter är blå,
-     c) Intelligens fås genom lärdom,
-     a) Rosor är röda,
+---> d) Kan du lära dig också?
+---> b) Violer är blå,
+---> c) Intelligens fås genom lärdom,
+---> a) Rosor är röda,
 
 
 
