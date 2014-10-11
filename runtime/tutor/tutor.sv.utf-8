@@ -439,15 +439,15 @@ Notera att  ce  inte bara ändrar ordet, utan även placerar dig i infogningslä
 		       Lektion 3.4: FLER ÄNDRINGAR MED c
 
 
-     ** Ändra-kommandot används på samma objekt som radera. **
+	    ** Ändra-kommandot används på samma objekt som radera. **
 
-  1. Ändra-kommandot fungerar på samma sätt som radera. Syntaxen är:
+  1. Ändra-kommandot fungerar på samma sätt som radera.  Syntaxen är:
 
-       [nummer]   c   objekt	   ELLER	    c	[nummer]   objekt
+         c   [nummer]   objekt
 
-  2. Objekten är också de samma, som t.ex.   w (ord), $ (slutet av raden), etc.
+  2. Objekten är också de samma, exempelvis  w (ord) och  $ (slutet av raden).
 
-  3. Flytta till den första raden nedan markerad -->.
+  3. Flytta till den första raden nedan markerad --->.
 
   4. Flytta markören till det första felet.
 
@@ -456,7 +456,6 @@ Notera att  ce  inte bara ändrar ordet, utan även placerar dig i infogningslä
 
 ---> Slutet på den här raden behöver hjälp med att få den att likna den andra.
 ---> Slutet på den här raden behöver rättas till med  c$-kommandot.
-
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
