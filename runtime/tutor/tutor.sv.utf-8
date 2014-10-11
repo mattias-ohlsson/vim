@@ -321,6 +321,29 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 --->  7)  Och så är du.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			 Lektion 2.7: ÅNGRA-KOMMANDOT
+
+ ** Skriv u för att ångra det senaste kommandot, U för att fixa en hel rad. **
+
+
+ 1. Flytta markören till slutet av raden nedan markerad ---> och placera den
+    på det första felet.
+ 2. Skriv  x  för att radera den första felaktiga tecknet.
+ 3. Skriv nu  u  för att ångra det senaste körda kommandot.
+ 4. Rätta den här gången alla felen på raden med  x-kommandot.
+ 5. Skriv nu  U  för att återställa raden till dess ursprungliga utseende.
+ 6. Skriv nu  u  några gånger för att ångra  U  och tidigare kommandon.
+ 7. Tryck nu CTRL-R (håll inne CTRL samtidigt som du trycker R) några gånger
+    för att upprepa kommandona (ångra ångringarna).
+
+---> Fiixa felen ppå deen häär raden och återskapa dem med ångra.
+
+  8. Det här är väldigt användbara kommandon.  Gå nu vidare till
+     Lektion 2 Sammanfattning.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		     Lesson 2.3: KOMMANDON OCH OBJEKT
 
 
@@ -340,32 +363,6 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 NOTERA:  För den äventyrslystne, genom att bara trycka på objektet i
 	 Normal-läge (utan kommando) så kommer markören att flyttas som
 	 angivet i objektlistan.
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			 Lektion 2.5: ÅNGRA-KOMMANDOT
-
-
-** Skriv  u för att ångra det senaste kommandona,  U för att fixa en hel rad. **
-
-  1. Flytta markören till slutet av raden nedan markerad ---> och placera den
-     på det första felet.
-  2. Skriv  x  för att radera den första felaktiga tecknet.
-  3. Skriv nu  u  för att ångra det senaste körda kommandot.
-  4. Rätta den här gången alla felen på raden med  x-kommandot.
-  5. Skriv nu  U  för att återställa raden till dess ursprungliga utseende.
-  6. Skriv nu  u  några gånger för att ångra  U  och tidigare kommandon.
-  7. Tryck nu CTRL-R (håll inne CTRL samtidigt som du trycker R) några gånger
-     för att upprepa kommandona (ångra ångringarna).
-
----> Fiixa felen ppå deen häär meningen och återskapa dem med ångra.
-
-  8. Det här är väldigt användbara kommandon.  Gå nu vidare till
-     Lektion 2 Sammanfattning.
-
-
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 2 SAMMANFATTNING
