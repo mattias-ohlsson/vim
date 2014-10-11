@@ -393,20 +393,20 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 		       Lesson 3.2: ERSÄTT-KOMMANDOT
 
 
-  ** Skriv  r  och ett tecken för att ersätta tecknet under markören. **
+      ** Skriv  rx  för att ersätta tecknet vid markören med ett  x. **
 
   1. Flytta markören till den första raden nedan markerad --->.
 
   2. Flytta markören så att den står på det första felet.
 
-  3. Skriv   r	och sedan det tecken som borde ersätta felet.
+  3. Skriv  r  och sedan det tecken som borde ersätta felet.
 
   4. Repetera steg 2 och 3 tills den första raden är korrekt.
 
 --->  När drn här ruden skrevs, trickte någon på fil knappar!
 --->  När den här raden skrevs, tryckte någon på fel knappar!
 
-  5. Gå nu vidare till Lektion 3.2.
+  5. Gå nu vidare till Lektion 3.3.
 
 NOTERA: Kom ihåg att du skall lära dig genom användning, inte genom memorering.
 
