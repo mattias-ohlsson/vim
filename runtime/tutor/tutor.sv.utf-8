@@ -464,7 +464,7 @@ Notera att  ce  inte bara ändrar ordet, utan även placerar dig i infogningslä
 
   1. För att ersätta text som redan har blivit raderad, skriv   p .
      Detta klistrar in den raderade texten EFTER markören (om en rad raderades
-     kommer den att hamna på raden under markören.
+     kommer den att hamna på raden under markören).
 
   2. För att ersätta tecknet under markören, skriv   r   och sedan tecknet som
      kommer att ersätta orginalet.
@@ -475,7 +475,7 @@ Notera att  ce  inte bara ändrar ordet, utan även placerar dig i infogningslä
 
   4. Syntaxen för ändra-kommandot är:
 
-	 [nummer]   c	objekt	      ELLER	c   [nummer]   objekt
+	c   [nummer]   objekt
 
 Gå nu till nästa lektion.
 
