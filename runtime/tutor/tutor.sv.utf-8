@@ -416,23 +416,22 @@ NOTERA: Kom ihåg att du skall lära dig genom användning, inte genom memorerin
 			Lektion 3.3: ÄNDRA-KOMMANDOT
 
 
-	   ** För att ändra en del eller ett helt ord, skriv  cw . **
+	    ** För att ändra till slutet av ett ord, skriv  ce . **
 
   1. Flytta markören till den första redan nedan markerad --->.
 
-  2. Placera markören på d i rdrtn.
+  2. Placera markören på  u  i  rurtn.
 
-  3. Skriv  cw  och det rätta ordet (i det här fallet, skriv "aden".)
+  3. Skriv  ce  och det rätta ordet (i det här fallet, skriv "aden").
 
-  4. Tryck <ESC> och flytta markören till nästa fel (det första tecknet som
-     ska ändras.)
+  4. Tryck <ESC> och flytta markören till nästa tecken som behöver ändras.
 
   5. Repetera steg 3 och 4 tills den första raden är likadan som den andra.
 
----> Den här rdrtn har några otf som brhotrt ändras mrf ändra-komjendit.
+---> Den här rurtn har några otf som brhotrt ändras mrf ändra-komjendit.
 ---> Den här raden har några ord som behöver ändras med ändra-kommandot.
 
-Notera att  cw  inte bara ändrar ordet, utan även placerar dig i infogningsläge.
+Notera att  ce  inte bara ändrar ordet, utan även placerar dig i infogningsläge.
 
 
 
