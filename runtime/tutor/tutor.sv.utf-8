@@ -344,27 +344,6 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		     Lesson 2.3: KOMMANDON OCH OBJEKT
-
-
-  Syntaxen för  d  raderingskommandot är följande:
-
-	 [nummer]   d	objekt	    ELLER	     d	 [nummer]   objekt
-  Var:
-    nummer - är antalet upprepningar av kommandot (valfritt, standard=1).
-    d - är kommandot för att radera.
-    objekt - är vad kommandot kommer att operera på (listade nedan).
-
-  En kort lista över objekt:
-    w - från markören till slutet av ordet, inklusive blanksteget.
-    e - från markören till slutet av ordet, EJ inklusive blanksteget.
-    $ - från markören till slutet på raden.
-
-NOTERA:  För den äventyrslystne, genom att bara trycka på objektet i
-	 Normal-läge (utan kommando) så kommer markören att flyttas som
-	 angivet i objektlistan.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 2 SAMMANFATTNING
 
 
