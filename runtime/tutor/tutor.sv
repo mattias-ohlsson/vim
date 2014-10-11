@@ -347,24 +347,24 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 			       LEKTION 2 SAMMANFATTNING
 
 
-  1. För att radera från markören till slutet av ett ord skriv:    dw
-
-  2. För att radera från markören till slutet av en rad skriv:    d$
-
+  1. För att radera från markören fram till nästa ord, skriv:   dw
+  2. För att radera från markören till slutet av en rad, skriv:   d$
   3. För att radera en hel rad skriv:    dd
 
-  4. Syntaxen för ett kommando i Normal-läge är:
-
-       [nummer]   kommando   objekt   ELLER   kommando   [nummer]   objekt
+  4. För att upprepa en rörelse, låt den föregås med ett nummer:   2w
+  5. Formatet för ett förändringskommando är:
+                operator   [nummer]   rörelse
      där:
-       nummer - är hur många gånger kommandot kommandot ska repeteras
-       kommando - är vad som ska göras, t.ex.  d  för att radera
-       objekt - är vad kommandot ska operera på, som t.ex.  w (ord),
-		$ (till slutet av raden), etc.
+       operator - är vad som ska göras, t.ex.  d  för att radera
+       [nummer] - är hur många gånger rörelsen ska repeteras
+       rörelse  - vad kommandot ska operera på, som t.ex.  w (ord),
+		  $ (till slutet av raden), etc.
 
-  5. För att ångra tidigare kommandon, skriv:  u (litet u)
-     För att ångra alla tidigare ändringar på en rad skriv:  U (stort U)
-     För att ångra ångringar tryck:  CTRL-R
+  6. För att flytta till början av raden, använd en nolla:  0
+
+  7. För att ångra tidigare kommandon, skriv:                 u (litet u)
+     För att ångra alla tidigare ändringar på en rad, skriv:  U (stort U)
+     För att ångra ångringari, tryck:                         CTRL-R
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			 Lektion 3.1: KLISTRA IN-KOMMANDOT
