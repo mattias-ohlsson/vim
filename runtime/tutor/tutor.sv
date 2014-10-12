@@ -507,24 +507,25 @@ NOTERA:  Du kan se markörpositionen i nedre högra hörnet av skärmen. Detta
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			Lektion 4.2: SÖK-KOMMANDOT
 
-
      ** Skriv  /  följt av en fras för att söka efter frasen. **
 
-  1. I Normal-läge skriv /-tecknet. Notera att det och markören blir synlig
+  1. I Normal-läge skriv /-tecknet.  Notera att det och markören blir synlig
      längst ned på skärmen precis som med :-kommandot.
 
-  2. Skriv nu "feeel" <ENTER>. Det här är ordet du vill söka efter.
+  2. Skriv nu 'feeel' <ENTER>.  Det här är ordet du vill söka efter.
 
   3. För att söka efter samma fras igen, tryck helt enkelt  n .
-     För att söka efter samma fras igen i motsatt riktning, tryck  Shift-N .
+     För att söka efter samma fras igen i motsatt riktning, tryck  N .
 
-  4. Om du vill söka efter en fras bakåt i filen, använd kommandot  ?  istället
-     för /.
+  4. För att söka efter en fras bakåt i filen, använd  ?  istället för  / .
+
+  5. För att gå tillbaka till där du kom ifrån, tryck  CTRL-O  (Håll Ctrl nere
+     medan du trycker bokstaven o).  Repetera för att gå längre tillbaka.
+     CTRL-I går framåt.
 
 ---> "feeel" är inte rätt sätt att stava fel: feeel är ett fel.
-
-Notera: När sökningen når slutet på filen kommer den att fortsätta vid början.
-
+NOTERA: När sökningen når slutet av filen kommer den att fortsätta vid början,
+        om inte 'wrapscan'-alternativet har återställts.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		   Lektion 4.3: SÖKNING EFTER MATCHANDE PARENTESER
