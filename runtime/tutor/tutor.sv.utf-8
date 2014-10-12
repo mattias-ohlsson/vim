@@ -482,26 +482,27 @@ Gå nu till nästa lektion.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		     Lektion 4.1: POSITION OCH FILSTATUS
+		   Lektion 4.1: MARKÖRPOSITION OCH FILSTATUS
 
+  ** Tryck CTRL-G för att visa din position i filen och filstatusen.
+     Tryck  G  för att flytta till en rad i filen. **
 
-  ** Tryck CTRL-g för att visa din position i filen och filstatusen.
-     Tryck SHIFT-G för att flytta till en rad i filen. **
+  NOTERA: Läsa hela den lektion innan du utför något av stegen!!
 
-  Notera: Läsa hela den lektion innan du utför något av stegen!!
+  1. Håll ned Ctrl-tangenten och tryck  g . Vi kallar det CTRL-G.
+     En statusrad visas längst ner på sidan med filnamnet och positionen
+     i filen. Kom ihåg radnumret till Steg 3.
 
-  1. Håll ned Ctrl-tangenten och tryck  g . En statusrad med filnamn och raden
-     du befinner dig på kommer att synas. Kom ihåg radnummret till Steg 3.
+NOTERA:  Du kan se markörpositionen i nedre högra hörnet av skärmen. Detta
+         sker när 'ruler'-valet är satt (se  :help 'ruler'  ).
 
-  2. Tryck shift-G för att flytta markören till slutet på filen.
+  2. Tryck  G  för att förflytta dig till slutet av filen.
+     Skriv  gg  för att förflytta dig till början av filen.
 
-  3. Skriv in nummret på raden du var på och tryck sedan shift-G. Detta kommer
-     att ta dig tillbaka till raden du var på när du först tryckte Ctrl-g.
-     (När du skriver in nummren, kommer de INTE att visas på skärmen.)
+  3. Skriv in radnumret du var på och därefter  G .  Detta för dig tillbaka
+     till raden du var på när du först tryckte CTRL-G.
 
   4. Om du känner dig säker på det här, utför steg 1 till 3.
-
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			Lektion 4.2: SÖK-KOMMANDOT
