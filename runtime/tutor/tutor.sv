@@ -576,26 +576,26 @@ NOTERA: Det här är väldigt användbart vid avlusning av ett program med icke
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 4 SAMMANFATTNING
 
+  1. Ctrl-g    visar din position i filen och filstatusen.
+            G  flyttar till slutet av filen.
+     nummer G  flyttar till angivet radnummer.
+           gg  flyttar till den första raden.
 
-  1. Ctrl-g  visar din position i filen och filstatusen.
-     Shift-G  flyttar till slutet av filen. Ett radnummer följt  Shift-G
-     flyttar till det radnummret.
-
-  2. Skriver man  /	följt av en fras söks det FRAMMÅT efter frasen.
-     Skriver man  ?	följt av en fras söks det BAKÅT efter frasen.
+  2. Skriver man  /  följt av en fras söks det FRAMMÅT efter frasen.
+     Skriver man  ?  följt av en fras söks det BAKÅT efter frasen.
      Efter en sökning skriv  n  för att hitta nästa förekomst i samma riktning
      eller  Shift-N  för att söka i den motsatta riktningen.
+     CTRL-O tar dig tillbaka till gamla positioner, CTRL-I till nyare
+     positioner.
 
-  3. Skriver man  %	när markören är på ett  (,),[,],{, eller }  hittas dess
+  3. Skriver man  %  när markören är på en  (,),[,],{, eller }  hittas dess
      matchande par.
 
-  4. För att ersätta den första gammalt med nytt på en rad skriv  :s/gammlt/nytt
-     För att ersätta alla gammlt med nytt på en rad skriv  :s/gammlt/nytt/g
-     För att ersätta fraser mellan rad # och rad # skriv  :#,#s/gammlt/nytt/g
-     För att ersätta alla förekomster i filen skriv  :%s/gammlt/nytt/g
-     För att bekräfta varje gång lägg till "c"  :%s/gammlt/nytt/gc
-
-
+  4. För att ersätta den första gammal med ny på en rad skriv  :s/gammal/ny
+     För att ersätta alla gammal med ny på en rad skriv  :s/gammal/ny/g
+     För att ersätta fraser mellan rad # och rad # skriv  :#,#s/gammal/ny/g
+     För att ersätta alla förekomster i filen skriv  :%s/gammal/ny/g
+     För att bekräfta varje gång, lägg till "c"  :%s/gammal/ny/gc
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		Lektion 5.1: HUR MAN KÖR ETT EXTERNT KOMMANDO
 
