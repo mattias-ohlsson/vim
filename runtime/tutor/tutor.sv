@@ -669,24 +669,23 @@ NOTERA: Genom att trycka  v  startas visuell markering.  Du kan förflytta
 		   Lektion 5.4: TA EMOT OCH FÖRENA FILER
 
 
-       ** För att infoga innehållet av en fil, skriv   :r FILNAMN **
+       ** För att infoga innehållet av en fil, skriv  :r FILNAMN  **
 
-  1. Skriv   :!dir   för att försäkra dig om att TEST-filen från tidigare
-     fortfarande är kvar.
+  1. Placera markören precis ovanför denna rad.
 
-  2. Placera markören högst upp på den här sidan.
+NOTERA: Efter att ha utfört steg 2 kommer du att se texten från Lektion 5.3.
+        Gå därefter NEDÅT för att se den här lektionen igen.
 
-NOTERA:  Efter att du kört Steg 3 kommer du att se Lektion 5.3.
-	 Flytta då NED till den här lektionen igen.
+  2. Ta nu emot din TEST-fil med kommandot  :r TEST  där TEST är namnet på
+     filen du använde tidigare.
+     Filen du tar emot placeras nedanför markörens rad.
 
-  3. Ta nu emot din TEST-fil med kommandot   :r TEST   där TEST är namnet på
-     filen.
+  3. För att verifiera att filen togs emot, gå tillbaka och notera att det
+     nu finns två kopior av Lektion 5.3, orginalet och filversionen.
 
-NOTERA:  Filen du tar emot placeras där markören är placerad.
-
-  4. För att verifiera att filen togs emot, gå tillbaka och notera att det nu
-     finns två kopior av Lektion 5.3, orginalet och filversionen.
-
+NOTERA: Du kan även läsa utmatningen av ett externt kommando.  Exempelvis
+        :r !ls  läser utmatningen av ls-kommandot och lägger det nedanför
+        markören.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
