@@ -645,27 +645,26 @@ NOTERA: Om du skulle avsluta Vim och sedan öppna igen med filnamnet TEST så
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lektion 5.3: ETT SELEKTIVT SPARA-KOMMANDO
 
+     ** För att spara en del av en fil, skriv  v  rörelse  :w FILNAMN **
 
-	** För att spara en del av en fil, skriv   :#,# w FILNAMN **
+  1. Flytta markören till den här raden.
 
-  1. Ännu en gång, skriv  :!dir  eller  :!ls  för att få en listning av din
-     katalog och välj ett passande filnamn som t.ex. TEST.
+  2. Tryck  v  och flytta markören till det femte punkten nedanför.  Notera
+     att texten blir markerad.
 
-  2. Flytta markören högst upp på den här sidan och tryck  Ctrl-g  för att få
-     reda på radnumret på den raden. KOM IHÅG DET NUMMRET!
+  3. Skriv  :-tecknet.  Längst ner på skärmen visas  :'<,'>
 
-  3. Flytta nu längst ned på sidan och skriv  Ctrl-g igen.
-     KOM IHÅG DET RADNUMMRET OCKSÅ!
+  4. Skriv  w TEST  , där TEST är ett filnamn som ännu inte existerar.
+     Verifiera att du ser  :'<,'>w TEST  innan du trycker på <ENTER>.
 
-  4. För att BARA spara en sektion till en fil, skriv   :#,# w TEST
-     där #,# är de två nummren du kom ihåg (toppen, botten) och TEST är
-     ditt filnamn.
+  5. Vim kommer att skriva den markerade texten till filen TEST.  Använd
+     :!dir  eller  :!ls  för att se den.  Radera den inte än!  Vi kommer att
+     använda den i nästa lektion.
 
-  5. Ännu en gång, kolla så att filen är där med  :!dir  men radera den INTE.
-
-
-
-
+NOTERA: Genom att trycka  v  startas visuell markering.  Du kan förflytta
+        markören för att göra markeringen större eller mindre.  Därefter kan
+        du använda ett kommando för att göra något med texten.  Till exempel
+        d   raderar texten.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		   Lektion 5.4: TA EMOT OCH FÖRENA FILER
 
