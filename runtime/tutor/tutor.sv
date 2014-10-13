@@ -630,17 +630,17 @@ NOTERA:  Alla  :-kommandon måste avslutas med att trycka på <ENTER>.  Från
 
   2. Välj ett filnamn som inte redan existerar, som t.ex. TEST.
 
-  3. Skriv nu:	 :w TEST   (där TEST är filnamnet du valt.)
+  3. Skriv nu:  :w TEST  (där TEST är filnamnet du valt.)
 
-  4. Det här sparar hela filen	(Vim handledningen)  under namnet TEST.
-     För att verifiera detta, skriv    :!dir   igen för att se din katalog
+  4. Det här sparar hela filen (Vim-handledningen) under namnet TEST.
+     För att verifiera detta, skriv  :!ls  eller  :!dir  igen för att se din
+     katalog
 
-Notera: Om du skulle avsluta Vim och sedan öppna igen med filnamnet TEST så
+NOTERA: Om du skulle avsluta Vim och sedan öppna igen med filnamnet TEST så
 	skulle filen vara en exakt kopia av handledningen när du sparade den.
 
   5. Ta nu bort filen genom att skriva (MS-DOS):  :!del TEST
 				   eller (Unix):  :!rm TEST
-
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lektion 5.3: ETT SELEKTIVT SPARA-KOMMANDO
