@@ -781,6 +781,29 @@ NOTERA: Ersätt-läget är likt Infoga-läget, men varje tecken som skrivs
         kommer att ersätta ett befintligt tecken.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		    Lektion 6.4: KOPIERA OCH KLISTRA IN TEXT
+
+  ** Använd y-operatorn för att kopiera text och  p  för att klista in den **
+
+  1. Gå till raden markerad ---> nedan och placera markören efter "a)".
+
+  2. Starta visuellt läge med  v  och flytta markören till precis innan
+     "första".
+
+  3. Tryck  y  för att kopiera (engelska: "yank") den markerade texten.
+
+  4. Flytta markören till slutet av nästa rad:  j$
+
+  5. Tryck  p  för att klistra in texten. Skriv därefter:  a andra <ESC> .
+
+  6. Använd visuellt läge för att välja " posten.", kopiera med  y , gå till
+     slutet av nästa rad med  j$  och klistra in texten där med  p .
+
+---> a) Detta är den första posten.
+     b)
+
+NOTERA: Du kan även använda  y  som en operator;  yw  kopierar ett ord.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			    Lektion 6.4: SÄTT FLAGGOR
 
   ** Sätt en flagga så att en sökning eller ersättning ignorerar storlek **
