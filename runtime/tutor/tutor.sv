@@ -551,7 +551,7 @@ NOTERA: Det här är väldigt användbart vid avlusning av ett program med icke
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		      Lektion 4.4: ETT SÄTT ATT ÄNDRA FEL
+		      Lektion 4.4: ERSÄTT-KOMMANDOT
 
 
 	** Skriv  :s/gammalt/nytt/g  för att ersätta "gammalt" med "nytt". **
@@ -561,17 +561,17 @@ NOTERA: Det här är väldigt användbart vid avlusning av ett program med icke
   2. Skriv  :s/denn/den <ENTER> . Notera att det här kommandot bara ändrar den
      första förekomsten på raden.
 
-  3. Skriv nu	 :s/denn/den/g	   vilket betyder ersätt globalt på raden.
-     Det ändrar alla förekomster på raden.
+  3. Skriv nu  :s/denn/den/g  . Tillägget av  g, som betyder ändra globalt,
+     ändrar alla förekomster av "denn" på raden.
 
 ---> denn bästa tiden att se blommor blomma är denn på våren.
 
   4. För att ändra alla förekomster av en teckensträng mellan två rader,
-     skriv  :#,#s/gammalt/nytt/g    där #,# är de två radernas radnummer.
-     Skriv  :%s/gammtl/nytt/g    för att ändra varje förekomst i hela filen.
-
-
-
+     skriv  :#,#s/gammalt/nytt/g  där #,# är radnumren för omfånget av rader
+                                  där ersättningen ska ske.
+     Skriv  :%s/gammalt/nytt/g    för att ändra alla förekomster i hela filen.
+     Skriv  :%s/gammalt/nytt/gc   för att hitta alla förekomster i hela filen,
+                                  med en fråga om ersättning ska ske.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 4 SAMMANFATTNING
