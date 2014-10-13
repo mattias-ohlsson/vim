@@ -737,26 +737,25 @@ NOTERA: Du kan även läsa utmatningen av ett externt kommando.  Exempelvis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			Lektion 6.2: LÄGG TILL-KOMMANDOT
 
-
 	     ** Skriv  a  för att infoga text EFTER markören. **
 
-  1. Flytta markören till slutet av den första raden nedan markerad ---> genom
-     att skriv  $	i Normal-läge.
+  1. Flytta markören till början av raden nedan markerad --->.
 
-  2. Skriv ett  a  (litet a) för att lägga till text EFTER tecknet under
-     markören.  (Stort  A  lägger till i slutet av raden.)
+  2. Tryck  e  till markören står på slutet av  ra .
 
-Notera: Detta undviker att behöva skriva  i , det sista tecknet, texten att
-	infoga, <ESC>, högerpil, och slutligen, x, bara för att lägga till i
-	slutet på en rad!
+  3. Skriv ett  a  (litet a) för att lägga till text EFTER markören.
 
-  3. Gör nu färdigt den första raden. Notera också att lägga till är likadant
-      som Infoga-läge, enda skillnaden är positionen där texten blir infogad.
+  4. Slutför ordet som det på raden under.  Tryck <ESC> för att avsluta
+     Infoga-läget.
 
----> Här kan du träna
----> Här kan du träna på att lägga till text i slutet på en rad.
+  5. Använd  e  för att gå till nästa ofullständiga ord och upprepa steg 3 och
+     4.
 
+---> Denna ra låter dig trä på att läg till text på en rad.
+---> Denna rad låter dig träna på att lägga till text på en rad.
 
+NOTERA: a, i och A går alla till samma Infoga-läge.  Den enda skillnaden är
+        var tecknen blir infogade.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lektion 6.3: EN ANNAN VERSION AV ERSÄTT
