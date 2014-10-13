@@ -602,22 +602,21 @@ NOTERA: Det här är väldigt användbart vid avlusning av ett program med icke
 
    ** Skriv  :!	följt av ett externt kommando för att köra det kommandot. **
 
-  1. Skriv det välbekanta kommandot	:  för att placera markören längst ned
-     på skärmen på skärmen. Detta låter dig skriva in ett kommando.
+  1. Skriv det välbekanta kommandot  :  för att placera markören längst ned
+     på skärmen.  Detta låter dig skriva in ett kommando.
 
-  2. Skriv nu  !  (utropstecken).  Detta låter dig köra ett godtyckligt externt
-     skalkommando.
+  2. Skriv nu  !  (utropstecken).  Detta låter dig köra ett godtyckligt
+     externt skalkommando.
 
-  3. Som ett exempel skriv   ls   efter ! och tryck sedan <ENTER>. Detta kommer
-     att visa dig en listning av din katalog, precis som om du kört det vid
-     skalprompten. Använd  :!dir  om ls inte fungerar.
+  3. Som ett exempel, skriv  ls  efter ! och tryck sedan <ENTER>.  Detta
+     kommer att visa dig en listning av din katalog, precis som om du kört det
+     vid skalprompten.  Använd  :!dir  om ls inte fungerar.
 
-Notera:  Det är möjligt att köra vilket externt kommando som helst på det här
-	 sättet.
+NOTERA:  Det är möjligt att köra godtyckligt externt kommando på det här
+         sättet, även med argument.
 
-Notera:  Alla  :-kommandon måste avslutas med att trycka på <ENTER>
-
-
+NOTERA:  Alla  :-kommandon måste avslutas med att trycka på <ENTER>.  Från
+         denna punkt är det inte alltid vi nämner det.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
