@@ -537,18 +537,16 @@ NOTERA: När sökningen når slutet av filen kommer den att fortsätta vid början,
 
   2. Skriv nu %-tecknet.
 
-  3. Markören borde vara på den matchande parentesen eller hakparentesen.
+  3. Markören flyttas till den matchande parentesen eller hakparentesen.
 
-  4. Skriv  %  för att flytta markören tillbaka till den första hakparentesen
-     (med matchning).
+  4. Skriv  %  för att flytta markören till den andra matchande parentesen.
+
+  5. Flytta markören till en annan (, ), [, ], { eller } och se vad  % gör.
 
 ---> Det ( här är en testrad med (, [ ] och { } i den. ))
 
-Notera: Det här är väldigt användbart vid avlusning av ett program med icke
-	matchande parenteser!
-
-
-
+NOTERA: Det här är väldigt användbart vid avlusning av ett program med icke
+        matchande parenteser!
 
 
 
