@@ -763,24 +763,22 @@ NOTERA: a, i och A går alla till samma Infoga-läge.  Den enda skillnaden är
 
       ** Skriv ett stort  R  för att ersätta fler än ett tecken. **
 
-  1. Flytta markören till den första raden nedan markerad --->.
+  1. Flytta markören till den första raden nedan markerad --->.  Flytta
+     markören till början av första  xxx .
 
-  2. Placera markören vid början av det första ordet som är annorlunda jämfört
-     med den andra raden markerad ---> (ordet "sista").
+  2. Tryck nu  R  och skriv in numret som finns på den andra raden nedanför,
+     så det ersätter xxx.
 
-  3. Skriv nu  R  och ersätt resten av texten på den första raden genom att
-     skriva över den gamla texten så att den första raden blir likadan som
-     den andra.
+  3. Tryck <ESC> för att lämna Ersätt-läget.  Lägg märke till att resten av
+     raden förblir oförändrad.
 
----> För att få den första raden lika som den sista, använd tangenterna.
----> För att få den första raden lika som den andra, skriv R och den nya texten.
+  4. Upprepa stegen för att ersätta den kvarvarande xxx.
 
-  4. Notera att när du trycker <ESC> för att avsluta, så blir eventuell
-     oförändrad text kvar.
+---> Genom att addera 123 till xxx får vi xxx.
+---> Genom att addera 123 till 456 får vi 579.
 
-
-
-
+NOTERA: Ersätt-läget är likt Infoga-läget, men varje tecken som skrivs
+        kommer att ersätta ett befintligt tecken.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			    Lektion 6.4: SÄTT FLAGGOR
