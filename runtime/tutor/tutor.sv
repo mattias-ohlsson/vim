@@ -701,14 +701,14 @@ NOTERA: Du kan även läsa utmatningen av ett externt kommando.  Exempelvis
 
   2.  :w FILNAMN  sparar den aktuella Vim-filen med namnet FILNAMN.
 
-  3.  :#,#w FILNAMN  sparar raderna # till #  i filen FILNAMN.
+  3.  v  rörelse  :w FILNAMN  sparar de visuellt markerade raderna till filen
+      FILNAMN.
 
   4.  :r FILNAMN  tar emot filen FILNAMN och infogar den i den aktuella filen
-      efter markören.
+      nedanför markören.
 
-
-
-
+  5.  :r !dir  läser utmatningen från dir-kommandot och infogar det nedanför
+      markören.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
