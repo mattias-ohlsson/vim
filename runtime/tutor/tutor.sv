@@ -720,19 +720,17 @@ NOTERA: Du kan även läsa utmatningen av ett externt kommando.  Exempelvis
 
   1. Flytta markören till raden nedan markerad --->.
 
-  2. Skriv  o (litet o) för att öppna upp en rad NEDANFÖR markören och placera
+  2. Skriv gemenen  o  för att öppna upp en rad NEDANFÖR markören och placera
      dig i Infoga-mode.
 
-  3. Kopiera nu raden markerad ---> och tryck <ESC> för att avsluta
-     Infoga-läget.
+  3. Skriv in lite text och tryck på <ESC> för att avsluta Infoga-läget.
 
----> Efter du skrivit  o  placerad markören på en öppen rad i Infoga-läge.
+---> Efter du skrivit  o  placeras markören på en öppen rad i Infoga-läge.
 
   4. För att öppna upp en rad OVANFÖR markören, skriv ett stort  O , istället
-     för ett litet  o. Pröva detta på raden nedan.
-Öppna upp en rad ovanför denna genom att trycka Shift-O när markören står här.
+     för ett litet  o.  Pröva detta på raden nedan.
 
-
+---> Öppna en rad ovanför denna genom att trycka O när markören står här.
 
 
 
