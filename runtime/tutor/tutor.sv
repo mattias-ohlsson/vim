@@ -804,28 +804,28 @@ NOTERA: Ersätt-läget är likt Infoga-läget, men varje tecken som skrivs
 
 NOTERA: Du kan även använda  y  som en operator;  yw  kopierar ett ord.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-			    Lektion 6.4: SÄTT FLAGGOR
+			    Lektion 6.5: SÄTT FLAGGOR
+
 
   ** Sätt en flagga så att en sökning eller ersättning ignorerar storlek **
 
-  1. Sök efter "ignore" genom att skriva:
-     /ignore
-     Repetera flera gånger genom att trycka på n-tangenten
+  1. Sök efter "ignorera" genom att skriva:  /ignorera  <ENTER>
+     Repetera flera gånger genom att trycka  n .
 
-  2. Sätt 'ic' (Ignore Case) flaggan genom att skriva:
-     :set ic
+  2. Sätt flaggan 'ic' (Ignore Case) genom att skriva:  :set ic
 
-  3. Sök nu efter "ignore" igen genom att trycka: n
-     Repeat search several more times by hitting the n key
+  3. Sök nu efter "ignorera" igen genom att trycka:  n
+     Notera att både "Ignorera" och "IGNORERA" hittas.
 
-  4. Sätt 'hlsearch' and 'incsearch' flaggorna:
-     :set hls is
+  4. Sätt flaggorna 'hlsearch' och 'incsearch':  :set hls is
 
-  5. Skriv nu in sök-kommandot igen, och se vad som händer:
-     /ignore
+  5. Skriv nu in sökkommandot igen, och se vad som händer:  /ignorera <ENTER>
 
-  6. För att ta bort framhävningen av träffar, skriv
-     :nohlsearch
+  6. För att slå av ignorering av storlek, skriv:  :set noic
+
+NOTERA: För att ta bort framhävningen av träffar, skriv:  :nohlsearch
+NOTERA: Om du vill ignorera storlek för ett enstaka sökkommando, använd  \c
+        i sökfrasen:  /ignorera\c  <ENTER>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 6 SAMMANFATTNING
 
