@@ -829,28 +829,25 @@ NOTERA: Om du vill ignorera storlek för ett enstaka sökkommando, använd  \c
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			       LEKTION 6 SAMMANFATTNING
 
+  1. Skriv  o  för att öppna en rad NEDANFÖR markören och starta Infoga-läget
+     Skriv  O  för att öppna en rad OVANFÖR markören.
 
-  1. Genom att skriva  o  öpnnas en rad NEDANFÖR markören och markören placeras
-     på den öppna raden i Infoga-läge.
-     Genom att skriva ett stort  O  öppnas raden OVANFÖR raden som markören är
-     på.
+  2. Skriv  a  för att infoga text EFTER markören.
+     Skriv  A  för att infoga text efter slutet av raden.
 
-  2. Skriv ett  a  för att infoga text EFTER tecknet som markören står på.
-     Genom att skriva ett stort  A  läggs text automatiskt till i slutet på
-     raden.
+  3. Kommandot  e  går till slutet av ett ord.
 
-  3. Genom att skriva ett stort  R  hamnar du i Ersätt-läge till  <ESC>  trycks
-     för att avsluta.
+  4. Operatorn  y  kopierar ("yank") text,  p  klistrar in ("paste") den.
 
-  4. Genom att skriva ":set xxx" sätts flaggan "xxx"
+  5. Genom att skriva  R  startas ersättningsläge till  <ESC>  trycks.
 
+  6. Skriv ":set xxx" för att sätta flaggan "xxx".  Exempel på flaggor är:
+	'ic' 'ignorecase'	ignorer storlek på bokstäver vid sökning
+	'is' 'incsearch'	visa delvisa matchningar för en sökfras
+	'hls' 'hlsearch'	framhäv alla matchande fraser
+     Du kan använda både det långa och det korta flaggnamnet.
 
-
-
-
-
-
-
+  7. Lägg till "no" före flaggan för att slå av den:  :set noic
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       LEKTION 7: ON-LINE HJÄLP-KOMMANDON
