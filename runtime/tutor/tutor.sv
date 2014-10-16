@@ -942,53 +942,35 @@ NOTERA: Komplettering fungerar för många kommandon.  Prova att trycka CTRL-D
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		       LEKTION 8: SKAPA ETT UPPSTARTSSKRIPT
 
-			  ** Aktivera Vim- funktioner **
-
-  Vim har många fler funktioner än Vi, men de flesta av dem är inaktiverade som
-  standard. För att börja använda fler funktioner måste du skapa en "vimrc"-fil.
-
-  1. Börja redigera "vimrc"-filen, detta beror på ditt system:
-	:edit ~/.vimrc			för Unix
-	:edit $VIM/_vimrc		för MS-Windows
-
-  2. Läs nu texten i exempel "vimrc"-filen:
-
-	:read $VIMRUNTIME/vimrc_example.vim
-
-  3. Spara filen med:
-
-	:write
-
-  Nästa gång du startar Vim kommer den att använda syntaxframhävning.
-  Du kan lägga till alla inställningar du föredrar till den här "vimrc"-filen.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-  Detta avslutar handledningen i Vim. Den var avsedd att ge en kort översikt av
-  redigeraren Vim, bara tillräckligt för att du ska kunna använda redigeraren
-  relativt enkelt. Den är långt ifrån komplett eftersom Vim har många många fler
-  kommandon. Läs användarmanualen härnäst: ":help user-manual".
+  Detta avslutar handledningen i Vim.  Den var avsedd att ge en kort översikt
+  av redigeraren Vim, bara tillräckligt för att du ska kunna använda
+  redigeraren relativt enkelt.  Den är långt ifrån komplett eftersom Vim har
+  många många fler kommandon.  Läs användarmanualen härnäst:
+  ":help user-manual".
 
   För vidare läsning rekommenderas den här boken:
 	Vim - Vi Improved - av Steve Oualline
 	Förlag: New Riders
-  Den första boken som är endast behandlar Vim. Speciellt användbar för
-  nybörjare. Det finns många exempel och bilder.
+  Den första boken som är helt tillägnad Vim. Speciellt användbar för
+  nybörjare.  Det finns många exempel och bilder.
   Se http://iccf-holland.org/click5.html
 
   Den här boken är äldre och behandlar mer Vi än Vim, men rekommenderas också:
 	Learning the Vi Editor - av Linda Lamb
 	Förlag: O'Reilly & Associates Inc.
-  Det är en bra bok för att lära sig nästan allt som du vill kunna göra med Vi.
-  Den sjätte upplagan inkluderar också information om Vim.
+  Det är en bra bok för att lära sig nästan allt som du vill kunna göra med
+  Vi.  Den sjätte upplagan inkluderar också information om Vim.
 
   Den här handledningen är skriven av Michael C. Pierce och Robert K. Ware,
   Colorado School of Mines med idéer från Charles Smith,
   Colorado State University.  E-post: bware@mines.colorado.edu.
 
   Modifierad för Vim av Bram Moolenaar.
-  Översatt av Johan Svedberg <johan@svedberg.com>
+
+  Ursprungligen översatt till Svenska av Johan Svedberg <johan@svedberg.com>.
+
+  Översättningen uppdaterad från 1.5 till 1.7 av Mattias Ohlsson
+  <mattias.ohlsson@inprose.com>.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
