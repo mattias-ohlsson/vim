@@ -896,6 +896,29 @@ NOTERA: Om du vill ignorera storlek för ett enstaka sökkommando, använd  \c
   lägga till alla dina favoritinställningar i "vimrc"-filen.
   För mer information, skriv  :help vimrc-intro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			   Lektion 7.3: KOMPLETTERING
+
+
+	      ** Kommandokomplettering med CTRL-D och <TAB> **
+
+  1. Säkerställ att Vim inte är i kompatibelt läge:  :set nocp
+
+  2. Se vilka filer som finns i katalogen:  :!ls  eller  :!dir
+
+  3. Skriv början av ett kommando:  :e
+
+  4. Tryck  CTRL-D  och Vim visar en lista över kommandon som starter med "e".
+
+  5. Tryck  <TAB>  och Vim kompletterar kommandonamnet till ":edit".
+
+  6. Lägg till ett blanksteg och början på ett befintligt filnamn:  :edit FIL
+
+  7. Tryck <TAB>.  Vim kommer att komplettera namnet (om det är unikt).
+
+NOTERA: Komplettering fungerar för många kommandon.  Prova att trycka CTRL-D
+        och <TAB>.  Det är särskilt användbart med  :help .
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       LEKTION 8: SKAPA ETT UPPSTARTSSKRIPT
 
 			  ** Aktivera Vim- funktioner **
