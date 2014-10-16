@@ -850,28 +850,28 @@ NOTERA: Om du vill ignorera storlek för ett enstaka sökkommando, använd  \c
   7. Lägg till "no" före flaggan för att slå av den:  :set noic
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		       LEKTION 7: ON-LINE HJÄLP-KOMMANDON
+			       Lektion 7.1: FÅ HJÄLP
 
 
-		      ** Använd on-line hjälpsystemet **
+			 ** Använd direkthjälpsystemet **
 
-  Vim har ett omfattande on-line hjälpsystem. För att komma igång pröva ett av
-  dessa tre:
-	- tryck <HELP> tangenten (om du har någon)
-	- tryck <F1> tangenten (om du har någon)
+  Vim har ett omfattande direkthjälpsystem.  För att komma igång, prova ett
+  av dessa tre:
+	- tryck <HJÄLP>-tangenten (om du har någon)
+	- tryck <F1>-tangenten (om du har någon)
 	- skriv   :help <ENTER>
 
-  Skriv   :q <ENTER>   för att stränga hjälpfönstret.
+  Läs texten i hjälpfönstret för att ta reda på hur hjälpen fungerar.
+  Skriv  CTRL-W CTRL-W  för att hoppa från ett fönster till ett annat.
+  Skriv    :q <ENTER>   för att stänga hjälpfönstret.
 
   Du kan hitta hjälp om nästan allting, genom att ge ett argument till
-  ":help" kommandot. Pröva dessa (glöm inte att trycka <ENTER>):
+  ":help"-kommandot.  Prova dessa (glöm inte att trycka <ENTER>):
 
 	:help w
-	:help c_<T
+	:help c_CTRL-D
 	:help insert-index
 	:help user-manual
-
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       LEKTION 8: SKAPA ETT UPPSTARTSSKRIPT
 
