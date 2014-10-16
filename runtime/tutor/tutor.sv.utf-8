@@ -198,7 +198,7 @@ Fortsätt nu med Lektion 2.
 
   NOTERA: Bokstaven  d  kommer att visas på sista raden på skärmen när du
           skriver den.  Vim väntar på att du ska skriva  w.  Om du ser en
-          annan bokstav än  d  har du skrivt fel; tryck  <ESC>  och börja om.
+          annan bokstav än  d  har du skrivit fel; tryck  <ESC>  och börja om.
 
 ---> Det är ett några ord roliga att som inte hör hemma i den här meningen.
 
@@ -248,7 +248,7 @@ Fortsätt nu med Lektion 2.
 
   Således raderas allt från markören till slutet av ordet om  de  skrivs.
 
-NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
+NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer markören
         att förflyttas enligt vad som anges.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -270,7 +270,7 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
 ---> Det här är bara en rad med ord som du kan flytta runt i.
 
-  6. Gå videra till Lektion 2.5.
+  6. Gå vidare till Lektion 2.5.
 
 
 
@@ -364,7 +364,7 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
   7. För att ångra tidigare kommandon, skriv:                 u (litet u)
      För att ångra alla tidigare ändringar på en rad, skriv:  U (stort U)
-     För att ångra ångringari, tryck:                         CTRL-R
+     För att ångra ångringar, tryck:                          CTRL-R
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 			 Lektion 3.1: KLISTRA IN-KOMMANDOT
@@ -390,7 +390,7 @@ NOTERA: Skrivs enbart rörelsen i Normal-läge utan operator kommer makrören
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		       Lesson 3.2: ERSÄTT-KOMMANDOT
+		       Lektion 3.2: ERSÄTT-KOMMANDOT
 
 
       ** Skriv  rx  för att ersätta tecknet vid markören med ett  x. **
@@ -467,7 +467,7 @@ Notera att  ce  inte bara ändrar ordet, utan även placerar dig i infogningslä
      kommer den att hamna på raden under markören).
 
   2. För att ersätta tecknet under markören, skriv   r   och sedan tecknet som
-     kommer att ersätta orginalet.
+     kommer att ersätta originalet.
 
   3. Ändra-kommandot låter dig ändra det angivna objektet från markören till
      slutet på objektet. eg. Skriv  cw  för att ändra från markören till slutet
@@ -681,7 +681,7 @@ NOTERA: Efter att ha utfört steg 2 kommer du att se texten från Lektion 5.3.
      Filen du tar emot placeras nedanför markörens rad.
 
   3. För att verifiera att filen togs emot, gå tillbaka och notera att det
-     nu finns två kopior av Lektion 5.3, orginalet och filversionen.
+     nu finns två kopior av Lektion 5.3, originalet och filversionen.
 
 NOTERA: Du kan även läsa utmatningen av ett externt kommando.  Exempelvis
         :r !ls  läser utmatningen av ls-kommandot och lägger det nedanför
@@ -783,7 +783,7 @@ NOTERA: Ersätt-läget är likt Infoga-läget, men varje tecken som skrivs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		    Lektion 6.4: KOPIERA OCH KLISTRA IN TEXT
 
-  ** Använd y-operatorn för att kopiera text och  p  för att klista in den **
+  ** Använd y-operatorn för att kopiera text och  p  för att klistra in den **
 
   1. Gå till raden markerad ---> nedan och placera markören efter "a)".
 
@@ -842,7 +842,7 @@ NOTERA: Om du vill ignorera storlek för ett enstaka sökkommando, använd  \c
   5. Genom att skriva  R  startas ersättningsläge till  <ESC>  trycks.
 
   6. Skriv ":set xxx" för att sätta flaggan "xxx".  Exempel på flaggor är:
-	'ic' 'ignorecase'	ignorer storlek på bokstäver vid sökning
+	'ic' 'ignorecase'	ignorerar storlek på bokstäver vid sökning
 	'is' 'incsearch'	visa delvisa matchningar för en sökfras
 	'hls' 'hlsearch'	framhäv alla matchande fraser
      Du kan använda både det långa och det korta flaggnamnet.
