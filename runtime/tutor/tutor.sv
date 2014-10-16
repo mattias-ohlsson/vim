@@ -919,6 +919,29 @@ NOTERA: Komplettering fungerar för många kommandon.  Prova att trycka CTRL-D
         och <TAB>.  Det är särskilt användbart med  :help .
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			    Lektion 7 SAMMANFATTNING
+
+
+  1. Skriv  :help  eller tryck <F1> eller <Help> för att öppna hjälpfönstret.
+
+  2. Skriv  :help kmd  för att få hjälp om  kmd .
+
+  3. Tryck  CTRL-W CTRL-W  för att hoppa till ett annat fönster.
+
+  4. Skriv  :q  för att stänga hjälpfönstret.
+
+  5. Upprätta ett vimrc-uppstartsskript för att lagra dina önskade
+     inställningar.
+
+  6. När du skriver ett  :-kommando, tryck CTRL-D för att se möjliga
+     kompletteringar.  Tryck <TAB> for att använda en komplettering.
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       LEKTION 8: SKAPA ETT UPPSTARTSSKRIPT
 
 			  ** Aktivera Vim- funktioner **
