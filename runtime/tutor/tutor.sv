@@ -873,6 +873,29 @@ NOTERA: Om du vill ignorera storlek för ett enstaka sökkommando, använd  \c
 	:help insert-index
 	:help user-manual
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		     Lektion 7.2: SKAPA ETT UPPSTARTSSKRIPT
+
+
+			** Aktivera funktioner i Vim **
+
+  Vim har många fler funktioner än Vi, men merparten av dessa är inaktiverade
+  som standard.  För att börja använda fler funktioner behöver du skapa en
+  "vimrc"-fil.
+
+  1. Börja redigera "vimrc"-filen.  Detta är beroende av vilket system du har:
+	:e ~/.vimrc	  för Unix
+	:e $VIM/_vimrc	  för MS-Windows
+
+  2. Läs nu in innehållet i exempelfilen för "vimrc":
+	:r $VIMRUNTIME/vimrc_example.vim
+
+  3. Spara filen med:
+	:w
+
+  Nästa gång du startar Vim kommer den att använda syntaxframhävning.  Du kan
+  lägga till alla dina favoritinställningar i "vimrc"-filen.
+  För mer information, skriv  :help vimrc-intro
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		       LEKTION 8: SKAPA ETT UPPSTARTSSKRIPT
 
 			  ** Aktivera Vim- funktioner **
